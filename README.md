@@ -1,11 +1,13 @@
 # Bozo
 
+Visit [this link](https://bozo-app.firebaseapp.com/) to see the deployed app, to access an account with photos already on it use the username 'marcel' and password 'marcel'.
+
 ## Description
 
 Bozo is a tool to practise quick-sketching by creating a timed practice session with your own images.
 
-![Login screen](screenshots/Login_screen.png)
-
+![Login screen](screenshots/Login_screen.png)  ![Gallery screen](screenshots/Gallery_screen.png)
+![Setup screen](screenshots/Setup_screen.png)  ![Slideshow_screen](screenshots/Slideshow_screen.png)
 
 ## User Stories
 
