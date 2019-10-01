@@ -3,7 +3,7 @@ import axios from 'axios';
 class ApiService {
     constructor () {
         this.api = axios.create({
-            baseURL: `${process.env.REACT_APP_BACKEND_DOMAIN}/api/`, 
+            baseURL: `https://bozo-server.herokuapp.com/api/`, 
             withCredentials: true,
         })
     }

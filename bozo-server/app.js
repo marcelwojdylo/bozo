@@ -15,7 +15,7 @@ const auth = require('./routes/auth');
 const apiRouter = require('./routes/api');
 
 mongoose
-  .connect(process.env.MONGODB_URI, {
+  .connect('mongodb+srv://marcel:Marcel1234%21@cluster0-33gi2.mongodb.net/test?retryWrites=true&w=majority', {
     keepAlive: true,
     useNewUrlParser: true,
     reconnectTries: Number.MAX_VALUE
@@ -32,7 +32,7 @@ const app = express();
 app.use(
   cors({
     credentials: true,
-    origin: [process.env.PUBLIC_DOMAIN]
+    origin: 'https://bozo-client.herokuapp.com'
   })
 );
 
