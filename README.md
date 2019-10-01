@@ -4,6 +4,8 @@
 
 Bozo is a tool to practise quick-sketching by creating a timed practice session with your own or default images.
 
+![Landing page](screenshots/Landing_page.png)
+
 
 ## User Stories
 
