@@ -156,34 +156,6 @@ Photo model
 | DELETE      | /gallery/delete/:id         | {id}                         | 201            | 400          | delete tournament                                             |
 
 
-<br>
-
-
-## Links
-
-### Trello/Kanban
-
-[Link to your trello board](https://trello.com/b/q96H8bHM/bozo) 
-
-### Git
-
-The url to your repository and to your deployed project
-
-[Client repository Link](https://github.com/screeeen/project-client)
-
-[Server repository Link](https://github.com/screeeen/project-server)
-
-[Deployed App Link](http://heroku.com)
-
-### Slides
-
-The url to your presentation slides
-
-[Slides Link](http://slides.com)
-
-
-
-
 
 
 
